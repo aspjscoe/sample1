@@ -1,0 +1,10 @@
+<el name="FistGame">
+	<el type="frontpage" index="1" ref="contents/quotes.xml" />
+	<el type="level" index="1" ref="contents/text-elements.xml" />
+	<el type="level" index="2" ref="contents/list-elements.xml" />
+	<el type="level" index="3" ref="contents/links.xml" />
+	<el type="level" index="4" ref="contents/images.xml" />
+	<el type="level" index="5" ref="contents/styles.xml" />
+	<el type="level" index="6" ref="contents/formatting-elements.xml" />
+	<el type="level" index="7" ref="contents/quotes.xml" />
+</el>
